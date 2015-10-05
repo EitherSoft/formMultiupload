@@ -1,0 +1,21 @@
+{
+  "name": "form-multiupload",
+  "description": "Script to upload multipart data by ajax",
+  "keywords": [
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "moduleType": "globals",
+  "main": [
+    "src/formMultiupload.js"
+  ],
+  "ignore": [
+    "/.*",
+    "composer.json",
+    "README.md",
+    "grunt",
+    "node_modules"
+  ],
+  "dependencies": {
+  }
+}
