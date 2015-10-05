@@ -1,21 +1,24 @@
 {
   "name": "form-multiupload",
   "description": "Script to upload multipart data by ajax",
-  "keywords": [
-  ],
-  "homepage": "",
+  "homepage": "https://github.com/jonnSmith/formMultiupload",
   "license": "MIT",
-  "moduleType": "globals",
+  "moduleType": [],
   "main": [
     "src/formMultiupload.js"
   ],
   "ignore": [
     "/.*",
-    "composer.json",
     "README.md",
     "grunt",
-    "node_modules"
+    "node_modules",
+    "**/.*",
+    "bower_components"
   ],
-  "dependencies": {
-  }
+  "dependencies": {},
+  "version": "0.0.1",
+  "authors": [
+    "jonnSmith <eugenpushkaroff@gmail.com>"
+  ],
+  "private": false
 }
